@@ -39,7 +39,9 @@ The application analyzes customer support call transcripts, retrieves relevant c
 
 > Add the System Architecture image here
 
-<img width="1000" height="1200" alt="System Architecture Multiagent jpg" src="https://github.com/user-attachments/assets/c72850d8-3d92-4c45-84de-49fd5dbad4fb" />
+<img src="https://github.com/user-attachments/assets/c72850d8-3d92-4c45-84de-49fd5dbad4fb"
+     alt="System Architecture"
+     width="650"/>
 
 
 ---
