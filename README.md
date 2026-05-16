@@ -41,25 +41,25 @@ The application analyzes customer support call transcripts, retrieves relevant c
 
 <img src="https://github.com/user-attachments/assets/c72850d8-3d92-4c45-84de-49fd5dbad4fb"
      alt="System Architecture"
-     width="650"/>
+     width="500"/>
 
 
 ---
 
 # LangGraph Workflow
 
-> Add the LangGraph Workflow image here
 
-<img width="1384" height="2889" alt="Lang-Graph  workflow jpg" src="https://github.com/user-attachments/assets/3cb0d317-f197-40bf-92af-2f2945941e21" />
 
----
+<img src="https://github.com/user-attachments/assets/3cb0d317-f197-40bf-92af-2f2945941e21"
+     alt="LangGraph Workflow"
+     width="500"/>
 
 # Multi LLM Fallback Flow
 
-> Add the LLM Fallback Flow image here
 
-<img width="1686" height="2372" alt="LLM Fallback flow jpg" src="https://github.com/user-attachments/assets/9531c126-d8ff-4391-9390-9daeb3cafbe8" />
-
+<img src="https://github.com/user-attachments/assets/9531c126-d8ff-4391-9390-9daeb3cafbe8"
+     alt="LLM Fallback Flow"
+     width="500"/>
 
 ---
 
