@@ -259,11 +259,15 @@ The application generates:
 
 # Screenshots
 
-> Add application screenshots here
+Interface for Uploading the transcript
 
 <img width="1782" height="933" alt="SS-1" src="https://github.com/user-attachments/assets/ac6c6ef0-715c-4443-ac40-2aedcfc262de" />
 
+
+Image of LangGraph Executive trace
 <img width="1831" height="962" alt="SS-2" src="https://github.com/user-attachments/assets/055a09dd-e60a-45c8-b828-13f972823558" />
+
+Final JSON Report output
 
 <img width="1816" height="843" alt="SS-3" src="https://github.com/user-attachments/assets/90a7d8ab-f320-468d-b5ca-d70ef5129759" />
 
