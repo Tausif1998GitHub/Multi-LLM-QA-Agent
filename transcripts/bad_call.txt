@@ -1,0 +1,19 @@
+Agent: Hello.
+
+Customer: I have been waiting for 10 minutes.
+
+Agent: Yeah, what do you want?
+
+Customer: My internet is still not working.
+
+Agent: Hold again.
+
+Customer: This is frustrating.
+
+Agent: We cannot do anything.
+
+Customer: Can someone call me later?
+
+Agent: No.
+
+Customer: Okay bye.

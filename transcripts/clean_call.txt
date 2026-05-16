@@ -1,0 +1,15 @@
+Agent: Hello, thank you for calling customer support.
+
+Customer: My internet connection is unstable.
+
+Agent: I apologize for the inconvenience.
+
+Agent: I have checked your account and restarted your connection.
+
+Agent: Your internet should now work properly.
+
+Agent: If the issue happens again, I can arrange a callback.
+
+Customer: Thank you.
+
+Agent: You're welcome. Thank you for calling support.

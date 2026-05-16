@@ -1,0 +1,8 @@
+Agent: Hello, thank you for calling support.
+Customer: My internet is unstable.
+Agent: I apologize for the inconvenience.
+Agent: I checked the issue and restarted your connection.
+Agent: Your issue should now be resolved.
+Agent: Is there anything else I can help with?
+Customer: No.
+Agent: Thank you for calling.

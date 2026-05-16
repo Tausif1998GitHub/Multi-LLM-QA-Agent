@@ -1,0 +1,29 @@
+Policy 1:
+Agent must greet customer politely.
+
+Policy 2:
+Agent must confirm customer identity.
+
+Policy 3:
+Agent must offer callback if hold exceeds 3 minutes.
+
+Policy 4:
+Agent must confirm issue resolution before ending call.
+
+Policy 5:
+Agent must maintain professional tone.
+
+Policy 6:
+Agent must apologize for delays.
+
+Policy 7:
+Agent must avoid interrupting customer repeatedly.
+
+Policy 8:
+Agent must provide ticket/reference number.
+
+Policy 9:
+Agent must summarize next steps.
+
+Policy 10:
+Agent must thank customer before ending call.
