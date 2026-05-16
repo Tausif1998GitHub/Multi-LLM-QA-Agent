@@ -1,4 +1,4 @@
-# 📞 Multi LLM Call QA Agent
+# Multi LLM Call QA Agent
 
 An AI powered customer support Quality Assurance system built using LangGraph, Groq hosted LLMs, FAISS based Retrieval Augmented Generation, and Streamlit.
 
