@@ -39,10 +39,8 @@ The application analyzes customer support call transcripts, retrieves relevant c
 
 > Add the System Architecture image here
 
-```md
-<img width="1738" height="2300" alt="System Architecture Multiagent jpg" src="https://github.com/user-attachments/assets/dc92a7c7-9839-473d-b011-4caa8db80dbe" />
+<img width="1738" height="2300" alt="System Architecture Multiagent jpg" src="https://github.com/user-attachments/assets/c72850d8-3d92-4c45-84de-49fd5dbad4fb" />
 
-```
 
 ---
 
@@ -50,10 +48,7 @@ The application analyzes customer support call transcripts, retrieves relevant c
 
 > Add the LangGraph Workflow image here
 
-```md
-<img width="1384" height="2889" alt="Lang-Graph  workflow jpg" src="https://github.com/user-attachments/assets/c859e5de-b83c-47da-a462-a990cfb9ea0b" />
-
-```
+<img width="1384" height="2889" alt="Lang-Graph  workflow jpg" src="https://github.com/user-attachments/assets/3cb0d317-f197-40bf-92af-2f2945941e21" />
 
 ---
 
@@ -61,10 +56,8 @@ The application analyzes customer support call transcripts, retrieves relevant c
 
 > Add the LLM Fallback Flow image here
 
-```md
-<img width="1686" height="2372" alt="LLM Fallback flow jpg" src="https://github.com/user-attachments/assets/69434122-a0ea-4ffc-9555-4692cc97ef16" />
+<img width="1686" height="2372" alt="LLM Fallback flow jpg" src="https://github.com/user-attachments/assets/9531c126-d8ff-4391-9390-9daeb3cafbe8" />
 
-```
 
 ---
 
@@ -266,14 +259,11 @@ The application generates:
 
 > Add application screenshots here
 
-```md
-<img width="1782" height="933" alt="SS-1" src="https://github.com/user-attachments/assets/10af0429-b2f6-47ae-adc6-c16eb947daaf" />
+<img width="1782" height="933" alt="SS-1" src="https://github.com/user-attachments/assets/ac6c6ef0-715c-4443-ac40-2aedcfc262de" />
 
-<img width="1831" height="962" alt="SS-2" src="https://github.com/user-attachments/assets/0664867f-d678-467a-b53e-88819697cb72" />
+<img width="1831" height="962" alt="SS-2" src="https://github.com/user-attachments/assets/055a09dd-e60a-45c8-b828-13f972823558" />
 
-<img width="1816" height="843" alt="SS-3" src="https://github.com/user-attachments/assets/3358c9f9-65a1-4873-ba5c-11dab4aaf434" />
-
-```
+<img width="1816" height="843" alt="SS-3" src="https://github.com/user-attachments/assets/90a7d8ab-f320-468d-b5ca-d70ef5129759" />
 
 ---
 
